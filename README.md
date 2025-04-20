@@ -47,7 +47,7 @@ Team
 🚀 Getting Started
 
 Clone the repository
-git clone https://github.com/yourusername/ipl-auction-2023-eda.git
+git clone https://github.com/uvaissha/ipl-auction-2023-eda.git
 cd ipl-auction-2023-eda
 Install required libraries
 pip install pandas matplotlib seaborn numpy
